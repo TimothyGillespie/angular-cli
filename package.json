@@ -180,7 +180,7 @@
     "minimatch": "3.0.4",
     "minimist": "^1.2.0",
     "ng-packagr": "13.0.0-rc.0",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^3.2.5",
     "npm-package-arg": "8.1.5",
     "open": "8.3.0",
     "ora": "5.4.1",
